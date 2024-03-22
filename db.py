@@ -1,3 +1,4 @@
+print()
 db = {}
 print('Welcome to the simplest key-value database')
 while True:
